@@ -7,3 +7,5 @@ Derek Lugowski
 Leo Rogers
 Morgan Grona
 Josh Valiquette
+
+Photos and a video of the robot are included.
